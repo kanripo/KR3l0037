@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 龍川畧志
-#+DATE: 2020-03-31 11:31:46.579235
+#+DATE: 2020-03-31 11:31:46.670933
 #+PROPERTY: ID KR3l0037
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3l0037_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部十二¶
@@ -23,7 +23,7 @@
 晁公武所紀又多一事蓋商維濬刻本離析¶
 卷帙已非其舊又誤竄畧志中一事入别志¶
 中並轍序所稱十卷之文亦濬所追改也畧¶
-志惟首尾兩卷紀&KR0462;事十四條餘二十五條¶
+志惟首尾兩卷紀襍事十四條餘二十五條¶
 皆論朝政蓋是非彼我之見至謫居時猶不¶
 忘也然惟記衆議之異同而不似王安石曾¶
 <pb:KR3l0037_WYG_000-2a>¶
